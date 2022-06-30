@@ -62,6 +62,7 @@ These GUIs are double resolution and shaded to help relieve eye strain. minecraf
 
 In addition to Vanilla Minecraft GUIS, this resource pack enhances the following minecraft mods:
 
+- [Apotheosis](https://www.curseforge.com/minecraft/mc-mods/Apotheosis)
 - [JEI (Just Enough Items)](https://www.curseforge.com/minecraft/mc-mods/jei)
 
 <!-- CONTRIBUTING -->
