@@ -9,3 +9,4 @@ and this project adheres to [Semantic Versioning](//semver.org/spec/v2.0.0.html)
 ### Added
  - Vanilla GUIs
  - JEI mod GUIs
+ - Apotheosis mod GUIs
