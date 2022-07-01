@@ -22,21 +22,21 @@
 
 <!-- PROJECT LOGO -->
 <br />
-<p align="center">
+<div align="center">
   <a href="https://github.com/ScottKillen/SomeDarkCorner">
     <img src="source/pack.png" alt="Logo" width="120" height="120">
   </a>
 
-  <h3 align="center">SomeDarkCorner</h3>
+  <h3>SomeDarkCorner</h3>
+</div>
 
-  <p align="center">
-    High resolution dark mode GUIs for Minecraft
-    <br />
-    <br />
-    <a href="https://github.com/ScottKillen/SomeDarkCorner/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/ScottKillen/SomeDarkCorner/issues">Request Feature</a>
-  </p>
+<p align="center">
+  High resolution dark mode GUIs for Minecraft
+  <br />
+  <br />
+  <a href="https://github.com/ScottKillen/SomeDarkCorner/issues">Report Bug</a>
+  ·
+  <a href="https://github.com/ScottKillen/SomeDarkCorner/issues">Request Feature</a>
 </p>
 
 <!-- TABLE OF CONTENTS -->
@@ -44,6 +44,7 @@
 ## Table of Contents
 
 - [About The Project](#about-the-project)
+- [Supported Mods](#supported-mods)
 - [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
@@ -52,9 +53,24 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
+<p align="center">
+  <a href="https://github.com/ScottKillen/SomeDarkCorner">
+    <img src="images/sample.png" alt="Sample">
+  </a>
+</p>
+
 If you find yourself playing Minecraft in the dark, your eyes might thank you for a dark mode improvement.
 
 These GUIs are double resolution and shaded to help relieve eye strain. minecraft's traditional rounded corners have been suared for a stylish sharper look.
+
+<!-- SUPPORTED MODS -->
+## Supported Mods
+
+In addition to Vanilla Minecraft GUIS, this resource pack enhances the following minecraft mods:
+
+- [Apotheosis](https://www.curseforge.com/minecraft/mc-mods/Apotheosis)
+- [JEI (Just Enough Items)](https://www.curseforge.com/minecraft/mc-mods/jei)
+- [TrashSlot](https://www.curseforge.com/minecraft/mc-mods/trashslot)
 
 <!-- CONTRIBUTING -->
 ## Contributing

@@ -15,6 +15,7 @@ jobs:
         uses: ComunidadAylas/PackSquash-action@v3
         with:
           path: source
+          allow_optifine_mod: true
       - name: Download optimized pack
         uses: actions/download-artifact@v3
         with:
