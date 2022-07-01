@@ -64,6 +64,7 @@ In addition to Vanilla Minecraft GUIS, this resource pack enhances the following
 
 - [Apotheosis](https://www.curseforge.com/minecraft/mc-mods/Apotheosis)
 - [JEI (Just Enough Items)](https://www.curseforge.com/minecraft/mc-mods/jei)
+- [TrashSlot](https://www.curseforge.com/minecraft/mc-mods/trashslot)
 
 <!-- CONTRIBUTING -->
 ## Contributing
