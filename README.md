@@ -61,12 +61,12 @@
 
 If you find yourself playing Minecraft in the dark, your eyes might thank you for a dark mode improvement.
 
-These GUIs are double resolution and shaded to help relieve eye strain. minecraft's traditional rounded corners have been suared for a stylish sharper look.
+These GUIs are double resolution and shaded to help relieve eye strain. Minecraft's traditional rounded corners have been squared for a stylish sharper look.
 
 <!-- SUPPORTED MODS -->
 ## Supported Mods
 
-In addition to Vanilla Minecraft GUIS, this resource pack enhances the following minecraft mods:
+In addition to Vanilla Minecraft GUIS, this resource pack enhances the following Minecraft mods:
 
 - [Apotheosis](https://www.curseforge.com/minecraft/mc-mods/Apotheosis)
 - [JEI (Just Enough Items)](https://www.curseforge.com/minecraft/mc-mods/jei)
@@ -89,8 +89,8 @@ Scott Killen - [@scottkillen](https://twitter.com/scottkillen) - scott@scottkill
 
 Project Link: [https://github.com/ScottKillen/SomeDarkCorner](https://github.com/ScottKillen/SomeDarkCorner)
 
-<!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements
+<!-- ACKNOWLEDGMENTS -->
+## Acknowledgments
 
 This project is based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/xnebulr/Minecraft-Default-Dark-Mode" rel="dct:source">https://github.com/xnebulr/Minecraft-Default-Dark-Mode</a>.
 
