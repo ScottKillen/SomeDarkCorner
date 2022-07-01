@@ -22,21 +22,21 @@
 
 <!-- PROJECT LOGO -->
 <br />
-<p align="center">
+<div align="center">
   <a href="https://github.com/ScottKillen/SomeDarkCorner">
     <img src="source/pack.png" alt="Logo" width="120" height="120">
   </a>
 
-  <h3 align="center">SomeDarkCorner</h3>
+  <h3>SomeDarkCorner</h3>
+</div>
 
-  <p align="center">
-    High resolution dark mode GUIs for Minecraft
-    <br />
-    <br />
-    <a href="https://github.com/ScottKillen/SomeDarkCorner/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/ScottKillen/SomeDarkCorner/issues">Request Feature</a>
-  </p>
+<p align="center">
+  High resolution dark mode GUIs for Minecraft
+  <br />
+  <br />
+  <a href="https://github.com/ScottKillen/SomeDarkCorner/issues">Report Bug</a>
+  ·
+  <a href="https://github.com/ScottKillen/SomeDarkCorner/issues">Request Feature</a>
 </p>
 
 <!-- TABLE OF CONTENTS -->
@@ -52,6 +52,12 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
+
+<p align="center">
+  <a href="https://github.com/ScottKillen/SomeDarkCorner">
+    <img src="images/sample.png" alt="Sample">
+  </a>
+</p>
 
 If you find yourself playing Minecraft in the dark, your eyes might thank you for a dark mode improvement.
 
