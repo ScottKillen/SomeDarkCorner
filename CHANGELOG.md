@@ -10,3 +10,4 @@ and this project adheres to [Semantic Versioning](//semver.org/spec/v2.0.0.html)
  - Vanilla GUIs
  - JEI mod GUIs
  - Apotheosis mod GUIs
+ - TrashSlot mod GUIs
