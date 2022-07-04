@@ -7,6 +7,7 @@ and this project adheres to [Semantic Versioning](//semver.org/spec/v2.0.0.html)
 
 ## [Unreleased]
 ### Added
+- BetterEnd (Forge) mod GUIs
 
 ## Removed
 - placeholder images
