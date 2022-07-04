@@ -69,6 +69,7 @@ These GUIs are double resolution and shaded to help relieve eye strain. Minecraf
 In addition to Vanilla Minecraft GUIS, this resource pack enhances the following Minecraft mods:
 
 - [Apotheosis](https://www.curseforge.com/minecraft/mc-mods/Apotheosis)
+- [BetterEnd (Forge)](https://www.curseforge.com/minecraft/mc-mods/betterend-forge-port)
 - [JEI (Just Enough Items)](https://www.curseforge.com/minecraft/mc-mods/jei)
 - [TrashSlot](https://www.curseforge.com/minecraft/mc-mods/trashslot)
 
